@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in the [NLP Group](https://www.cse.ust.hk/) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by [Prof. Junxian He](https://hexu.org/). I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research lies at the intersection of natural language processing and machine learning.
+I am a first-year PhD candidate in the NLP Group at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research lies at the intersection of natural language processing and machine learning.
 
 Research Interests
 ======
